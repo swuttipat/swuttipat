@@ -6,7 +6,7 @@
 # <div align="center">I'm Wuttipat an Aircraft mechanic. Who are interested in Data Science 📊.</div>  
   
 
-- 🔭 I’m currently working on [Github Airline Passenger Satisfaction](https://github.com/swuttipat/airline_passenger_satisfaction)  
+- 🔭 I’m currently working on [Github Shoppee Price Trackier](https://github.com/swuttipat/shopee-price-tracker)  
   
 
 - 🌱 I’m currently learning Data Analytics and Maching Learning.  
