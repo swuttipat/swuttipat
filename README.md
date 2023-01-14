@@ -7,6 +7,8 @@
   
 Motivated individual with a strong background in engineering and a passion for using data to drive decision making. In the process of transitioning into the data science field, with coursework in several learning platforms and a number of personal projects to develop skills in data analysis and machine learning. Strong problem-solving skills and ability to communicate technical concepts to non-technical stakeholders. Seeking a data scientist role at a company where I can continue to learn and grow as a professional while making an impact with my skills and experience.
 
+- ✈️ I'm Wuttipat, 30 years old, a full-time aircraft mechanic, interested in data analysis and machine learning.
+
 - 🔭 I’m currently working on [Github Shoppee Price Trackier](https://github.com/swuttipat/shopee-price-tracker)  
   
 
