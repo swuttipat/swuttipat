@@ -9,7 +9,7 @@ Motivated individual with a strong background in engineering and a passion for u
 
 - ✈️ I'm 30 years old, live in Bangkok.
 
-- 🔭 I’m currently working on [Github Shoppee Price Trackier](https://github.com/swuttipat/shopee-price-tracker)  
+- 🔭 I’m currently working on [Titanic Machine Learning](https://github.com/swuttipat/titanic)
   
 
 - 🌱 I’m currently learning Data Analytics and Maching Learning.  
