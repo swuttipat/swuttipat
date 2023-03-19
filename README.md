@@ -4,12 +4,27 @@
   
 
 # <div align="center">I'm Wuttipat an Aircraft mechanic. Who are interested in Data Science 📊.</div>  
-  
+
+
+## My Project
+
+- [🍼 Water bottle image classifier with CNN](https://github.com/swuttipat/water_bottle_image-classification)
+
+- [✈️ Airline passenger satisfaction EDA & classifier](https://github.com/swuttipat/airline_passenger_satisfaction)
+
+- [🤝 Online funding platform KickStarter analysis](https://github.com/swuttipat/kickstarter)
+
+- [😷 COVID-19 Tweet text classifier with NLP](https://www.kaggle.com/wuttipats/covid19-tweet-text-classification/) - WORKING...
+
+<br/>
+
+## About Me
+
 Motivated individual with a strong background in engineering and a passion for using data to drive decision making. In the process of transitioning into the data science field, with coursework in several learning platforms and a number of personal projects to develop skills in data analysis and machine learning. Strong problem-solving skills and ability to communicate technical concepts to non-technical stakeholders. Seeking a data scientist role at a company where I can continue to learn and grow as a professional while making an impact with my skills and experience.
 
 - ✈️ I'm live in Bangkok.
 
-- 🔭 I’m working on **Natural lanuage processing**
+- 🔭 I’m working on **Natural lanuage processing project:** [Covid19-tweet-text-classification](https://www.kaggle.com/wuttipats/covid19-tweet-text-classification/) 
   
 
 - 🌱 I’m currently learning Data Analytics and Maching Learning.  
