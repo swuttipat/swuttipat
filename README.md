@@ -8,7 +8,7 @@
 
 ## My Project
 
-- [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification) - WORKING...
+- [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification)
 
 - [🍼 Water bottle image classifier with CNN](https://github.com/swuttipat/water_bottle_image-classification)
 
