@@ -8,13 +8,13 @@
 
 ## My Project
 
+- [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification) - WORKING...
+
 - [🍼 Water bottle image classifier with CNN](https://github.com/swuttipat/water_bottle_image-classification)
 
 - [✈️ Airline passenger satisfaction EDA & classifier](https://github.com/swuttipat/airline_passenger_satisfaction)
 
 - [🤝 Online funding platform KickStarter analysis](https://github.com/swuttipat/kickstarter)
-
-- [😷 COVID-19 Tweet text classifier with NLP](https://www.kaggle.com/wuttipats/covid19-tweet-text-classification/) - WORKING...
 
 <br/>
 
@@ -24,7 +24,7 @@ Motivated individual with a strong background in engineering and a passion for u
 
 - ✈️ I'm live in Bangkok.
 
-- 🔭 I’m working on **Natural lanuage processing project:** [Covid19-tweet-text-classification](https://www.kaggle.com/wuttipats/covid19-tweet-text-classification/) 
+- 🔭 I’m working on **Natural lanuage processing project:** [Covid19-tweet-text-classification](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification) 
   
 
 - 🌱 I’m currently learning Data Analytics and Maching Learning.  
