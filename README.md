@@ -24,8 +24,8 @@ Motivated individual with a strong background in engineering and a passion for u
 
 - ✈️ I'm live in Bangkok.
 
-- 🔭 I’m working on **Natural lanuage processing project:** [Covid19-tweet-text-classification](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification) 
-  
+- 🔭 I’m working on **How to deploy ML model to web API** 
+
 
 - 🌱 I’m currently learning Data Analytics and Maching Learning.  
   
