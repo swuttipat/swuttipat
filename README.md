@@ -10,7 +10,7 @@
 
 - [🐶 Dog Breed Image Classification Dataset on Kaggle 🐾](https://www.kaggle.com/code/wuttipats/dog-breed-images-classification-model-baseline)
 
-- [🛍️ E-commerce Product Analysis 🍊](https://www.kaggle.com/code/wuttipats/lazada-health-products-eda)
+- [🛍️ E-commerce Product Analysis 🍊](https://github.com/swuttipat/lazada-health-products-analysis))
 
 - [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification)
 
