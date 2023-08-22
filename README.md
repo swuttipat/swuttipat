@@ -10,7 +10,7 @@
 
 - [🐶 Dog Breed Image Classification Dataset on Kaggle 🐾](https://www.kaggle.com/code/wuttipats/dog-breed-images-classification-model-baseline)
 
-- [🛍️ E-commerce Product Analysis 🍊](https://github.com/swuttipat/lazada-health-products-analysis))
+- [🛍️ E-commerce Product Analysis 🍊](https://github.com/swuttipat/lazada-health-products-analysis)
 
 - [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification)
 
@@ -24,20 +24,20 @@
 
 ## About Me
 
-Motivated individual with a strong background in engineering and a passion for using data to drive decision making. In the process of transitioning into the data science field, with coursework in several learning platforms and a number of personal projects to develop skills in data analysis and machine learning. Strong problem-solving skills and ability to communicate technical concepts to non-technical stakeholders. Seeking a data scientist role at a company where I can continue to learn and grow as a professional while making an impact with my skills and experience.
+Motivated individual with a strong background in engineering and a passion for using data to drive decision-making. In the process of transitioning into the data science field, with coursework in several learning platforms and a number of personal projects to develop skills in data analysis and machine learning. Strong problem-solving skills and ability to communicate technical concepts to non-technical stakeholders. Seeking a data scientist role at a company where I can continue to learn and grow as a professional while making an impact with my skills and experience.
 
-- ✈️ I'm live in Bangkok.
+- ✈️ I live in Bangkok.
 
-- 🔭 I’m working on **How to deploy ML model to web API** 
+- 🔭 I’m working on **Time Series Analysis** 
 
 
-- 🌱 I’m currently learning Data Analytics and Maching Learning.  
+- 🌱 I’m currently learning Data Analytics and Machine Learning.  
   
 
 - ❓ I am always amazed at how fast technology changes. And very excited to study and try out new innovations.  
   
 
-- ⚡ I am self-motivation, perseverance and dedicate.  
+- ⚡ I am self-motivation, persevering, and dedicate.  
   
 
 <br/>  
