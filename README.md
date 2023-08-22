@@ -8,6 +8,10 @@
 
 ## My Project
 
+- [🐶 Dog Breed Image Classification Dataset on Kaggle 🐾](https://www.kaggle.com/code/wuttipats/dog-breed-images-classification-model-baseline)
+
+- [🛍️ E-commerce Product Analysis 🍊](https://www.kaggle.com/code/wuttipats/lazada-health-products-eda)
+
 - [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification)
 
 - [🍼 Water bottle image classifier with CNN](https://github.com/swuttipat/water_bottle_image-classification)
