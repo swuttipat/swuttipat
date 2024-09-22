@@ -3,10 +3,13 @@
 </div>  
   
 
-# <div align="center">I'm Wuttipat an Aircraft mechanic. Who are interested in Data Science 📊.</div>  
+# <div align="center">I'm Wuttipat, a former engineer who is interested in data-driven approaches. 📊.</div>  
 
 
 ## My Project
+
+
+- [👨‍👦‍👦 Customer Segmentation with Clustering Model](https://www.kaggle.com/code/wuttipats/customer-segmentation-with-clustering-model)
 
 - [🐶 Dog Breed Image Classification Dataset on Kaggle 🐾](https://www.kaggle.com/code/wuttipats/dog-breed-images-classification-model-baseline)
 
@@ -18,7 +21,6 @@
 
 - [✈️ Airline passenger satisfaction EDA & classifier](https://github.com/swuttipat/airline_passenger_satisfaction)
 
-- [🤝 Online funding platform KickStarter analysis](https://github.com/swuttipat/kickstarter)
 
 <br/>
 
@@ -30,12 +32,9 @@ Motivated individual with a strong background in engineering and a passion for u
 
 - 🔭 I’m working on **Time Series Analysis** 
 
-
 - 🌱 I’m currently learning Data Analytics and Machine Learning.  
-  
 
 - ❓ I am always amazed at how fast technology changes. And very excited to study and try out new innovations.  
-  
 
 - ⚡ I am self-motivation, persevering, and dedicate.  
   
