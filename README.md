@@ -30,7 +30,7 @@ Motivated individual with a strong background in engineering and a passion for u
 
 - ✈️ I live in Bangkok.
 
-- 🔭 I’m working on **Time Series Analysis** 
+- 🔭 I’m working as **Vendor Key Account Manager in Lazada Thailand** 
 
 - 🌱 I’m currently learning Data Analytics and Machine Learning.  
 
