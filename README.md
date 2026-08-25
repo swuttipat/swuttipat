@@ -1,106 +1,82 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Wuttipat Sricharoensuk
 
-# <div align="center">I'm Wuttipat, a former engineer who is interested in data-driven approaches. 📊.</div>  
+**Commercial analytics and BI, based in Bangkok.**
 
+I work on retail commercial data: sales, promotion performance and seller portfolios, and the
+reporting that turns them into decisions.
 
-## My Project
+My current role covers the annual target-setting framework and the trade promotion calendar at a
+Thai modern-trade retail chain, across the commercial teams involved in promotion. Before that I
+managed roughly 100 sellers and about 50M THB of monthly portfolio GMV as a Key Account Manager
+at Lazada Thailand. I spent close to eight years in engineering first, then moved into data
+through coursework and the projects below.
 
+I am looking for a commercial analytics, BI or insights role.
 
-- [👨‍👦‍👦 Customer Segmentation with Clustering Model](https://www.kaggle.com/code/wuttipats/customer-segmentation-with-clustering-model)
+**Portfolio: [swuttipat.github.io/about-me](https://swuttipat.github.io/about-me/)**
 
-- [🐶 Dog Breed Image Classification Dataset on Kaggle 🐾](https://www.kaggle.com/code/wuttipats/dog-breed-images-classification-model-baseline)
+---
 
-- [🛍️ E-commerce Product Analysis 🍊](https://github.com/swuttipat/lazada-health-products-analysis)
+## Automated pipelines
 
-- [😷 COVID-19 Tweet text classifier with NLP](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification)
+Three projects that collect, process and publish on a schedule, with no manual step.
 
-- [🍼 Water bottle image classifier with CNN](https://github.com/swuttipat/water_bottle_image-classification)
+| Project | What it does | Built with |
+|---|---|---|
+| **[flight-price-tracker](https://github.com/swuttipat/flight-price-tracker)** | Tracks fares on 13 routes out of Bangkok. Answers two questions: when to book a fixed trip, and when to fly a flexible one. Collects daily at 08:00 Bangkok. | Python, GitHub Actions, Chart.js |
+| **[ecom-price-tracker](https://github.com/swuttipat/ecom-price-tracker)** | Daily competitor price and assortment tracking for probiotic supplements on Lazada Thailand. Commits each snapshot to the repo, then reports median price, promo penetration and day-on-day changes. | Python, GitHub Actions |
+| **[about-me](https://github.com/swuttipat/about-me)** | Portfolio page. One self-contained HTML file with no external requests, hosted on GitHub Pages. | HTML, CSS, JavaScript |
 
-- [✈️ Airline passenger satisfaction EDA & classifier](https://github.com/swuttipat/airline_passenger_satisfaction)
+Shopee and TikTok Shop were built and tested for the price tracker, then dropped when anti-bot
+measures blocked every free approach available. The build log in that repo records the attempts.
 
+---
 
-<br/>
+## Data science portfolio
 
-## About Me
+### Machine learning and modelling
 
-Motivated individual with a strong background in engineering and a passion for using data to drive decision-making. In the process of transitioning into the data science field, with coursework in several learning platforms and a number of personal projects to develop skills in data analysis and machine learning. Strong problem-solving skills and ability to communicate technical concepts to non-technical stakeholders. Seeking a data scientist role at a company where I can continue to learn and grow as a professional while making an impact with my skills and experience.
+- **[Customer segmentation with clustering](https://github.com/swuttipat/customer-segmentation-with-clustering-model):** RFM-style customer grouping. Also published as a [Kaggle notebook](https://www.kaggle.com/code/wuttipats/customer-segmentation-with-clustering-model).
+- **[German credit risk](https://github.com/swuttipat/german-credit-risk):** Classification on a small, imbalanced, heavily categorical dataset.
+- **[Fraud detection](https://github.com/swuttipat/fraud-detection):** Class imbalance handled with SMOTE, evaluated on precision and recall rather than accuracy.
+- **[Climate time series](https://github.com/swuttipat/climate-time-series-analysis):** Seasonal decomposition and SARIMA forecasting.
 
-- ✈️ I live in Bangkok.
+### Deep learning
 
-- 🔭 I’m working as **Vendor Key Account Manager in Lazada Thailand** 
+- **[Water bottle image classification](https://github.com/swuttipat/water_bottle_image-classification):** A CNN image classifier. The initial accuracy score proved to be an artefact of class imbalance, since most training images were labelled "full". Rebuilt with resampling, a confusion matrix and a ResNet50 benchmark.
+- **[COVID-19 tweet sentiment](https://github.com/swuttipat/covid19-tweet-text-sentiment-classification):** Text preprocessing and multi-class sentiment classification.
+- **[Dog breed classifier](https://www.kaggle.com/code/wuttipats/dog-breed-images-classification-model-baseline):** Image classification baseline, trained on a dataset I assembled.
 
-- 🌱 I’m currently learning Data Analytics and Machine Learning.  
+### Data engineering and deployment
 
-- ❓ I am always amazed at how fast technology changes. And very excited to study and try out new innovations.  
+- **[Lazada health products scraper](https://github.com/swuttipat/webscraping-lazada-health-products)** and **[the analysis it feeds](https://github.com/swuttipat/e-commerce-health-products-analysis):** Collects a live marketplace catalogue, then analyses it.
+- **[Iris ML on FastAPI, Docker and Heroku](https://github.com/swuttipat/iris-ml-fastapi-docker-heroku):** A model served as a REST endpoint, containerised and deployed.
 
-- ⚡ I am self-motivation, persevering, and dedicate.  
-  
+---
 
-<br/>  
+## Datasets I published
 
+Two datasets on my Kaggle profile are ones I built rather than downloaded.
 
-## My Skill Set  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="75"></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="75" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75"></a>
-  
+- **[Lazada Thailand health products](https://www.kaggle.com/datasets/wuttipats/lazada-thailand-health-products-dataset):** Scraped from a live marketplace, cleaned and documented.
+- **[Dog breed image classification](https://www.kaggle.com/datasets/wuttipats/dog-breed-image-classification-dataset):** Assembled from the Dog CEO API, using my own [API client](https://github.com/swuttipat/dogceo-python-api).
 
-</div>  
+---
 
-<br/>  
+## Toolkit
 
+**Analysis and reporting:** SQL and BigQuery, Power BI with DAX, advanced Excel
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/swuttipat" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://srwuttipat.wixsite.com/myprofile" target="_blank">
-<img src=https://img.shields.io/badge/-portfolio-lightgray?style=for-the-badge&logo=wix&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/wuttipat-sricharoensuk" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-<a href="https://www.kaggle.com/wuttipats" target="_blank">
-<img src=https://img.shields.io/badge/-kaggle-%2320BEFF?style=for-the-badge&logo=keras&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+**Python:** pandas, scikit-learn, statsmodels, TensorFlow and Keras
 
-<br/>  
+**Deployment:** GitHub Actions, Docker, FastAPI, Git
 
+**Certifications:** Google Data Analytics, Google Advanced Data Analytics, Google Digital
+Marketing and E-commerce, DataCamp Data Analyst in Power BI, DataCamp SQL for Business Analysts.
 
+---
 
+Also here: early classifiers on Titanic, Iris and California housing, an SQL exploration of US
+birth rates, a Thai stock ticker scraper, and a number of small web apps and browser games.
 
-
-
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=swuttipat&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+**[Portfolio](https://swuttipat.github.io/about-me/) · [LinkedIn](https://linkedin.com/in/wuttipat-sricharoensuk) · [Kaggle](https://www.kaggle.com/wuttipats)**
